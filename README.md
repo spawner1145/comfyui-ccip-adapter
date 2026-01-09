@@ -2,6 +2,8 @@
 
 A minimal ComfyUI custom node plugin to load and run a CCIP adapter.
 
+Before using,you need to install [comfyui-ccip](https://github.com/spawner1145/comfyui-ccip.git) and [comfyui-spawner-nodes](https://github.com/spawner1145/comfyui-spawner-nodes.git) first
+
 ## Nodes
 
 - **CCIP Adapter Loader**
